@@ -63,3 +63,14 @@ read the
 
 And if you get through all the above - make `lambdata` better! Implement 2 more
 helper functions, and/or refactor your code to be more object-oriented.
+
+proof of docker upload WIP:
+
+Installing collected packages: Lambdata-veritaem
+Successfully installed Lambdata-veritaem-0.0.10
+Success!
+Removing intermediate container 802833ad622f
+ ---> 6805d1995a3b
+Successfully built 6805d1995a3b
+Successfully tagged veritaem/dock1:python
+SECURITY WARNING: You are building a Docker image from Windows against a non-Windows Docker host. All files and directories added to build context will have '-rwxr-xr-x' permissions. It is recommended to double check and reset permissions for sensitive files and directories.
