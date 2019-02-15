@@ -6,6 +6,7 @@ list1=['Awesome','Shiny','Portable', 'Improved', 'Impressive']
 list2=['Anvil', 'Catapult' 'Disguise' 'Mousetrap', '???']
 
 names_list =list(itertools.product(list1, list2))
+pick_1 = random.randint(len(names_list)
 rando_int = random.randint(5, 101)
 rando_fire = random.randint(0.0, 2.6)
 
@@ -18,7 +19,11 @@ def generate products(Class = Product, count = 30):
 
     = Class(self.name)
     for count in count:
-        product
+        prod_list.append()
+        prod_name_list.append()
+        prod_weight_list.append()
+        prod_price_list.append()
+        prod_flam_list.append()
         return prod_list
 
     
