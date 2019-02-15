@@ -16,7 +16,7 @@ def generate products(Class = Product, count = 30):
     prod_weight_list = []
     prod_flam_list = []
     prod_price_list = []
-
+    # todo: figure out how to generate this?? all i need is the right method, i just dont know it in time..
     = Class(self.name)
     for count in count:
         prod_list.append()
